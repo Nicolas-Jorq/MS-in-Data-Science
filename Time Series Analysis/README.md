@@ -1,4 +1,4 @@
-## Optimizing Retail Forecasting: Capturing Cyclical Trends with Advanced SARIMA Models
+# Optimizing Retail Forecasting: Capturing Cyclical Trends with Advanced SARIMA Models
 
 ### Objectives and Scope
 The paper focuses on the challenges of time series forecasting in retail, particularly for predicting trends or cycles, aiming to enhance the prediction of such trends through advanced SARIMA models. The paper uses daily sales data from a Superstore as a case study.
@@ -22,7 +22,7 @@ The paper focuses on the challenges of time series forecasting in retail, partic
 - Outlines areas for future research.
 
 
-## Time Series Analysis Foundation
+# Time Series Analysis Foundation
 ### ARIMA Modeling - ACF, PACF Analysis
 - Introduces AutoCorrelation Function (ACF) and Partial AutoCorrelation Function (PACF) as essential tools for understanding the time dependencies in time-series data.
 - Explains how ACF and PACF plots are used to identify the order of the ARIMA model, providing a foundational step in time-series forecasting.
