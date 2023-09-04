@@ -1,6 +1,6 @@
-# Statistical Methods
+# Statistical Methods - Exploring Financial Indicators
 
-### Exploring Financial Indicators
+### Overview
 - A comprehensive analysis of four random variables: daily ETF return, daily relative change in the price of crude oil, daily relative change in the gold price, and daily return of the JPMorgan Chase & Co stock. 
 - Utilizes Python for statistical analysis, covering correlation, distributions, hypothesis testing, and linear regression.
 
