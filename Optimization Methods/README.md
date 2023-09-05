@@ -1,3 +1,5 @@
+# Optimization Methods
+
 ### Mathematical Foundations
 - Explores the core mathematical concepts such as calculus, linear algebra, and probability theory that serve as the building blocks for data science and machine learning algorithms.
 - Aimed at solidifying foundational knowledge crucial for understanding more complex algorithms and models.
